@@ -4,6 +4,7 @@
 %define device_pretty Samsung A7 2017
 %define droid_target_aarch64 1
 %define installable_zip 1
+%define enable_kernel_update 1
 
 %define android_config \
 #define MALI_QUIRKS 1\
